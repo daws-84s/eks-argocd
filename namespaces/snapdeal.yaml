@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: roboshop
+  name: snapdeal
   labels:
-    project: roboshop
+    project: snapdeal
     environment: dev
